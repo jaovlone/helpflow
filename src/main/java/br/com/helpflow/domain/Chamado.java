@@ -1,4 +1,4 @@
-package main.java.br.com.helpflow.domain;
+package br.com.helpflow.domain;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
